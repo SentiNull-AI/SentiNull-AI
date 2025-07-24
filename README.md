@@ -2,7 +2,7 @@
   <img src="https://your-logo-url-here.com/logo.png" alt="SentiNull Logo" width="200" />
 </p>
 
-<h1 align="center">🧠 SentiNull-AI</h1>
+<h1 align="center">🛡️ SentiNull-AI</h1>
 <p align="center">
   <em>Guardian of the Digital Void • AI-Driven Cybersecurity • Zero-Trace Mindset</em>
 </p>
